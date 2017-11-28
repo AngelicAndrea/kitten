@@ -1,0 +1,15 @@
+.container-img{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../imagenes/sunny-day.jpg);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 100vh; 
+}
+.cat-img{
+    padding: 300px 0 0 360px;
+    width: 80%;
+}
